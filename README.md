@@ -1,2 +1,2 @@
 # PayrollSystem
-Ghanian Payroll System
+Ghanaian Payroll System
